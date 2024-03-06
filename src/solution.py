@@ -35,8 +35,6 @@ class mlp(nn.Module):
         return predictions
 
 
-# # WRITE CODE HERE
-
 class cnn(nn.Module):
     def __init__(self, time_periods, n_sensors, n_classes):
         super(cnn, self).__init__()
