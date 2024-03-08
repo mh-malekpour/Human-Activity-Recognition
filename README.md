@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project is part of the IFT6135-A2024 course under Prof. Aaron Courville. The goal is to perform Human Activity Recognition (HAR) using deep learning techniques, specifically Multilayer Perceptron (MLP) and 1D Convolutional Neural Network (1D CNN). The dataset consists of time series data from smartphone accelerometers, including x, y, and z-axis acceleration data, timestamps, and person IDs. The task is to classify six types of activities: Walking, Jogging, Sitting, Standing, Climbing Upstairs, and Going Downstairs.
+This project is part of the IFT 6135B - H2024  course under Prof. Aaron Courville. The goal is to perform Human Activity Recognition (HAR) using deep learning techniques, specifically Multilayer Perceptron (MLP) and 1D Convolutional Neural Network (1D CNN). The dataset consists of time series data from smartphone accelerometers, including x, y, and z-axis acceleration data, timestamps, and person IDs. The task is to classify six types of activities: Walking, Jogging, Sitting, Standing, Climbing Upstairs, and Going Downstairs.
 
 ## Models
 
